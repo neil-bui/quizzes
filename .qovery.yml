@@ -1,0 +1,15 @@
+---
+application:
+  name: "quizzes"
+  project: "quiz-you-quiz-me"
+  organization: "QoveryCommunity"
+databases:
+- type: "MONGODB"
+  name: "myFirstDatabase"
+  version: "4.4"
+routers:
+- name: "main-quizzes"
+  routes:
+  - application_name: "quizzes"
+    paths:
+    - "/*"
