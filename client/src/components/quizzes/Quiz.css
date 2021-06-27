@@ -79,9 +79,9 @@ body {
   }
   
   button {
-      height:auto;
+      height: auto;
       display: table;
-      overflow: scroll;
+      overflow: hidden;
   }
 
   
