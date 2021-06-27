@@ -41,9 +41,9 @@ export default function Quiz() {
 		{
 			questionText: 'It\'s Friday night, and you just got paid. How do you make it rain?',
 			answerOptions: [
-				{ answerText: 'Throw down hunnits on booze for Mardi Gras', answerPoints: 1 },
+				{ answerText: 'Throw down hunnits on booze', answerPoints: 1 },
 				{ answerText: 'A full-body massage', answerPoints: 2 },
-				{ answerText: 'Splurgin on a self-regulating indoor herb garden', answerPoints: 3 },
+				{ answerText: 'Splurgin on a self-regulating indoor garden', answerPoints: 3 },
 			],
 		},
 	];
