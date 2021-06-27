@@ -17,33 +17,33 @@ export default function Quiz() {
 		{
 			questionText: 'When the time comes for your semiannual teeth cleaning, you:',
 			answerOptions: [
-				{ answerText: 'Show up having flossed once (15 minutes before)', answerPoints: 1 },
-				{ answerText: 'Bring earbuds to block out the sound of the drill', answerPoints: 2 },
-				{ answerText: 'Show up 20 minutes early with all the paperwork', answerPoints: 3 },
+				{ answerText: 'Show up having flossed once', answerPoints: 1 },
+				{ answerText: 'Bring earbuds to block out the sounds', answerPoints: 2 },
+				{ answerText: 'Show up early with all the paperwork', answerPoints: 3 },
 			],
 		},
 		{
 			questionText: 'How much do you contribute to your 401(k)?',
 			answerOptions: [
-				{ answerText: 'That new club downtown? You slipped the bouncer Monopoly money last night', answerPoints: 1 },
-				{ answerText: 'Whatever you\'ll need for a 5-star vacay when you finally retire', answerPoints: 2 },
-				{ answerText: 'You\'ve been maxing out since your first job in 6th grade', answerPoints: 3 },
+				{ answerText: 'That new club downtown?', answerPoints: 1 },
+				{ answerText: 'Whatever you\'ll need for a 5-star vacay', answerPoints: 2 },
+				{ answerText: 'You\'ve been maxing out since your first job', answerPoints: 3 },
 			],
 		},
 		{
 			questionText: 'At a networking event, you can be found:',
 			answerOptions: [
-				{ answerText: 'Hiding out in the last stall of the ladies\'', answerPoints: 1 },
+				{ answerText: 'Hiding out in the last bathroom stall', answerPoints: 1 },
 				{ answerText: 'Taking a shot for every collected biz card', answerPoints: 2 },
-				{ answerText: 'Pitching your personal brand to the keynote speaker', answerPoints: 3 },
+				{ answerText: 'Pitching your personal brand to the speaker', answerPoints: 3 },
 			],
 		},
 		{
 			questionText: 'It\'s Friday night, and you just got paid. How do you make it rain?',
 			answerOptions: [
-				{ answerText: 'Throw down hunnits on booze, beads, and beignets for Mardi Gras', answerPoints: 1 },
-				{ answerText: 'A full-body massage. You hunched so hard at your desk this week, you\'re basically Quasimodo', answerPoints: 2 },
-				{ answerText: 'Splurgin on a self-regulating indoor herb garsden; it\'ll be worth it', answerPoints: 3 },
+				{ answerText: 'Throw down hunnits on booze for Mardi Gras', answerPoints: 1 },
+				{ answerText: 'A full-body massage', answerPoints: 2 },
+				{ answerText: 'Splurgin on a self-regulating indoor herb garden', answerPoints: 3 },
 			],
 		},
 	];
